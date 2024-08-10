@@ -1,0 +1,17 @@
+PORK
+Sinigang
+Porkchop
+PorkSteak
+Adobo
+
+CHICKEN
+Fried
+Curry
+Tinola
+Adobo
+
+FRIED Rice
+Garlic FriedRice
+Adobo FriedRice
+Egg FriedRice
+Pepper Lunch
